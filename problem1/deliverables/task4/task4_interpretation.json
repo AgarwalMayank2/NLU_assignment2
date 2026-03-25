@@ -1,0 +1,8 @@
+{
+  "method": "pca",
+  "note": "Visually compare local cluster compactness and semantic neighborhood spread. Skip-gram often separates rare or technical words better, while CBOW may form smoother dense clusters.",
+  "files": {
+    "cbow": "/home/mayank/my_folders/IITJ/NLU/Assignment_2/deliverables/task4/task4_pca_cbow.png",
+    "skipgram": "/home/mayank/my_folders/IITJ/NLU/Assignment_2/deliverables/task4/task4_pca_skipgram.png"
+  }
+}

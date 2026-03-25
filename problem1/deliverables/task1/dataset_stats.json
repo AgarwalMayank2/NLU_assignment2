@@ -1,0 +1,836 @@
+{
+  "total_documents": 117,
+  "total_tokens": 38054,
+  "vocabulary_size": 4273,
+  "top_30_words": [
+    [
+      "of",
+      1447
+    ],
+    [
+      "department",
+      1195
+    ],
+    [
+      "the",
+      1113
+    ],
+    [
+      "and",
+      1028
+    ],
+    [
+      "for",
+      674
+    ],
+    [
+      "jodhpur",
+      666
+    ],
+    [
+      "to",
+      612
+    ],
+    [
+      "in",
+      567
+    ],
+    [
+      "engineering",
+      448
+    ],
+    [
+      "iit",
+      405
+    ],
+    [
+      "iitj",
+      356
+    ],
+    [
+      "institute",
+      339
+    ],
+    [
+      "office",
+      331
+    ],
+    [
+      "technology",
+      288
+    ],
+    [
+      "is",
+      249
+    ],
+    [
+      "research",
+      225
+    ],
+    [
+      "contact",
+      212
+    ],
+    [
+      "center",
+      205
+    ],
+    [
+      "infrastructure",
+      202
+    ],
+    [
+      "information",
+      202
+    ],
+    [
+      "web",
+      202
+    ],
+    [
+      "science",
+      201
+    ],
+    [
+      "links",
+      198
+    ],
+    [
+      "school",
+      197
+    ],
+    [
+      "redirecttologinpage",
+      196
+    ],
+    [
+      "digital",
+      189
+    ],
+    [
+      "feedback",
+      183
+    ],
+    [
+      "on",
+      165
+    ],
+    [
+      "indian",
+      157
+    ],
+    [
+      "with",
+      157
+    ]
+  ],
+  "sourced_documents": 117,
+  "seed_sources": 44,
+  "crawl_depth": 2,
+  "max_pages": 120,
+  "unique_urls": 120,
+  "documents": [
+    {
+      "source_url": "https://www.iitj.ac.in/Doctor-of-Philosophy/en/Doctor-of-Philosophy",
+      "crawl_level": 0,
+      "raw_file": "raw_downloads/www.iitj.ac.in_Doctor-of-Philosophy_en_Doctor-of-Philosophy_0cf945d7.html",
+      "token_count": 201
+    },
+    {
+      "source_url": "https://www.iitj.ac.in",
+      "crawl_level": 1,
+      "raw_file": "raw_downloads/www.iitj.ac.in_3a2b2665.html",
+      "token_count": 474
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/Main/en/Help",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_Main_en_Help_6b9f96ad.html",
+      "token_count": 272
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/Search?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_Search_lg_en_8aca70fc.html",
+      "token_count": 68
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/hi/iitj",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_hi_iitj_847afb5b.html",
+      "token_count": 15
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/AtoZ?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_AtoZ_lg_en_7da94680.html",
+      "token_count": 8686
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/iitj",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_iitj_0e0698b9.html",
+      "token_count": 474
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-institute?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-institute_lg_en_566d3888.html",
+      "token_count": 80
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-statutory bodies?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-statutory_bodies_lg_en_1b04e5a9.html",
+      "token_count": 82
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-key functionaries?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-key_functionaries_lg_en_bd0a09ba.html",
+      "token_count": 86
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-infrastructure?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-infrastructure_lg_en_fdf507c0.html",
+      "token_count": 73
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-outreach?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-outreach_lg_en_b99c9a26.html",
+      "token_count": 94
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-director/en/office-of-director",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-director_en_office-of-director_ccf34b72.html",
+      "token_count": 454
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-deputy-director/en/office-of-deputy-director",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-deputy-director_en_office-of-deputy-director_e2925118.html",
+      "token_count": 124
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-registrar/en/office-of-registrar",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-registrar_en_office-of-registrar_8f6a9eab.html",
+      "token_count": 227
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-administration/en/office-of-administration",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-administration_en_office-of-administration_6d6a8202.html",
+      "token_count": 541
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-various offices?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-various_offices_lg_en_695107ac.html",
+      "token_count": 198
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/administrative-contact",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_administrative-contact_35091e17.html",
+      "token_count": 300
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-departments?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-departments_lg_en_e0b1fcb2.html",
+      "token_count": 86
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-schools?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-schools_lg_en_2c025893.html",
+      "token_count": 84
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-centers?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-centers_lg_en_9011137b.html",
+      "token_count": 105
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-idrps-idrcs?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-idrps-idrcs_lg_en_62d5adcd.html",
+      "token_count": 89
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-academics/en/academics",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-academics_en_academics_0beae08b.html",
+      "token_count": 243
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-executive-education/en/office-of-executive-education",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-executive-education_en_office-of-executive-education_393e972b.html",
+      "token_count": 450
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/es/en/engineering-science",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_es_en_engineering-science_46790a0c.html",
+      "token_count": 507
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/main-programs?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_main-programs_lg_en_094f48c6.html",
+      "token_count": 97
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/en/Admission-to-Postgraduate-Programs",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_en_Admission-to-Postgraduate-Prog_00ed3ddc.html",
+      "token_count": 313
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/admission-links",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_admission-links_73d39676.html",
+      "token_count": 107
+    },
+    {
+      "source_url": "https://library.iitj.ac.in",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/library.iitj.ac.in_e49eba6f.html",
+      "token_count": 360
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/dia/en/dia",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_dia_en_dia_0ecd3240.html",
+      "token_count": 259
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/health-center/en/health-center",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_health-center_en_health-center_3c58f7f4.html",
+      "token_count": 641
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/aiot-fab-facility/en/aiot-fab-facility",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_aiot-fab-facility_en_aiot-fab-facility_289a4c8c.html",
+      "token_count": 615
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/crf/en/crf",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_crf_en_crf_5688749e.html",
+      "token_count": 351
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-research-development/en/office-of-research-and-development",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-research-development_en_office-of-research-and-developm_2996a674.html",
+      "token_count": 410
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/company-oversight?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_company-oversight_lg_en_4e8103a9.html",
+      "token_count": 100
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-students/en/office-of-students",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-students_en_office-of-students_5c703b25.html",
+      "token_count": 548
+    },
+    {
+      "source_url": "http://swc.iitj.ac.in",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/swc.iitj.ac.in_00264f97.html",
+      "token_count": 285
+    },
+    {
+      "source_url": "https://alumni.iitj.ac.in",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/alumni.iitj.ac.in_0f7df404.html",
+      "token_count": 4
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/faculty-positions/en/faculty-positions",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_faculty-positions_en_faculty-positions_e6f72ae5.html",
+      "token_count": 225
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/faqs-applicants",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_faqs-applicants_c2202a33.html",
+      "token_count": 129
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/faculty-members",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_faculty-members_0be873f2.html",
+      "token_count": 195
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/scholars-in-residence",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_scholars-in-residence_d31731a6.html",
+      "token_count": 207
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/adjunct-faculty-members",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_adjunct-faculty-members_434ae0df.html",
+      "token_count": 189
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/visiting-faculty-members",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_visiting-faculty-members_e069be83.html",
+      "token_count": 185
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/why-pursue-a-career-@-iit-jodhpur",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_why-pursue-a-career-_-iit-jodhpur_9bca33c4.html",
+      "token_count": 713
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/m/Index/schools-master%20of%20business%20administration?lg=en",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_m_Index_schools-master_20of_20business_20administration_lg_en_6fcb682c.html",
+      "token_count": 84
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/en/msc-computational-social-science",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_en_msc-computational-social-scien_412baab1.html",
+      "token_count": 201
+    },
+    {
+      "source_url": "https://iitj.ac.in/PageImages/Gallery/12-2025/IITJ PGD AI - Brochure_01dec2025.pdf",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/iitj.ac.in_PageImages_Gallery_12-2025_IITJ_PGD_AI_-_Brochure_01dec2025.pdf_ba3c45c4.pdf",
+      "token_count": 2327
+    },
+    {
+      "source_url": "https://iitj.ac.in/PageImages/Gallery/12-2025/IITJ BSc - Brochure_01dec2025.pdf",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/iitj.ac.in_PageImages_Gallery_12-2025_IITJ_BSc_-_Brochure_01dec2025.pdf_3e1ffd04.pdf",
+      "token_count": 724
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/introduction",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_introduction_7cb1df3c.html",
+      "token_count": 219
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/research-highlight",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_research-highlight_0250c848.html",
+      "token_count": 165
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/research-highlight?dsl=2&dslID=3647aa9a-ea25-41e5-9bc4-4f491beb5f4d",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_research-highlight_dsl_2_dslID_3647aa9a-ea25-41e5-9bc4-4f_bc418342.html",
+      "token_count": 537
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/research-highlight?dsl=2&dslID=d747bac3-a0bd-4a6a-8843-6d33e721b331",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_research-highlight_dsl_2_dslID_d747bac3-a0bd-4a6a-8843-6d_cc2da7b8.html",
+      "token_count": 545
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/research-highlight?dsl=2&dslID=682d62af-b4b9-46d8-8130-a2144d06e003",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_research-highlight_dsl_2_dslID_682d62af-b4b9-46d8-8130-a2_f3504ecf.html",
+      "token_count": 327
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/schools/en/cat-cut-offs",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_schools_en_cat-cut-offs_3c36c6fa.html",
+      "token_count": 93
+    },
+    {
+      "source_url": "https://iitj.ac.in/PageImages/RecruitmentAdvertisementMaster/12-2025/Extension-Notice-1-639008984239214006.pdf",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/iitj.ac.in_PageImages_RecruitmentAdvertisementMaster_12-2025_Extension-Notice-1-_e866b533.pdf",
+      "token_count": 115
+    },
+    {
+      "source_url": "https://iitj.ac.in/Recruitment/AdvNum?type=3052",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/iitj.ac.in_Recruitment_AdvNum_type_3052_6fe82edf.html",
+      "token_count": 218
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/PageImages/Gallery/11-2025/Corrigendumdeadlineextended-638980302467849511.pdf",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_PageImages_Gallery_11-2025_Corrigendumdeadlineextended-6389803024_5c61b491.pdf",
+      "token_count": 84
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/news",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_news_9389bbb4.html",
+      "token_count": 290
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/electrical-engineering/en/Research-Highlights?dsl=2&dslID=45070ea5-4bdc-4e1f-a594-bb7c6cafa195",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_electrical-engineering_en_Research-Highlights_dsl_2_dslID_45070ea_984565e6.html",
+      "token_count": 118
+    },
+    {
+      "source_url": "https://iitj.ac.in/main/en/news?dsl=2&dslID=e68ae573-7d7e-4f5f-bf35-e3c801ac5f60",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/iitj.ac.in_main_en_news_dsl_2_dslID_e68ae573-7d7e-4f5f-bf35-e3c801ac5f60_8aff9626.html",
+      "token_count": 151
+    },
+    {
+      "source_url": "https://iitj.ac.in/main/en/news?dsl=2&dslID=e0f79fba-e306-49c8-9f2a-0df29de67bc1",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/iitj.ac.in_main_en_news_dsl_2_dslID_e0f79fba-e306-49c8-9f2a-0df29de67bc1_26bee342.html",
+      "token_count": 132
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/all-announcement",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_all-announcement_c7afff0c.html",
+      "token_count": 173
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/en/list-of-provisionally-selected-candidates",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_en_list-of-provisionally-selected_1bf20b37.html",
+      "token_count": 167
+    },
+    {
+      "source_url": "https://iitj.ac.in/admission-postgraduate-programs/en/list-of-shortlisted-candidates",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/iitj.ac.in_admission-postgraduate-programs_en_list-of-shortlisted-candidates_ac33fd4e.html",
+      "token_count": 208
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/events",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_events_153892c7.html",
+      "token_count": 191
+    },
+    {
+      "source_url": "https://iitj.ac.in/main/en/events?dsl=2&dslID=74ebb42f-9e61-47e6-bd93-defceeaa5e71",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/iitj.ac.in_main_en_events_dsl_2_dslID_74ebb42f-9e61-47e6-bd93-defceeaa5e71_d3f17058.html",
+      "token_count": 78
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/school-of-artificial-intelligence-data-science/en/Events?dsl=2&dslID=6bda9606-7644-4a40-b10c-fe0c914f4b3d",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_school-of-artificial-intelligence-data-science_en_Events_dsl_2_ds_65a3525c.html",
+      "token_count": 115
+    },
+    {
+      "source_url": "https://iitj.ac.in/main/en/events?dsl=2&dslID=651de5e6-905b-416b-95d8-9d221f39a4e5",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/iitj.ac.in_main_en_events_dsl_2_dslID_651de5e6-905b-416b-95d8-9d221f39a4e5_2522cd21.html",
+      "token_count": 202
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/chairman",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_chairman_7e7f88cd.html",
+      "token_count": 567
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/director",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_director_ec09d06c.html",
+      "token_count": 692
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-students/en/campus-life",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-students_en_campus-life_751c5c21.html",
+      "token_count": 271
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/important-links",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_important-links_64c026b2.html",
+      "token_count": 141
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/recruitments",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_recruitments_41e59684.html",
+      "token_count": 84
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/correspondence",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_correspondence_3d13dd48.html",
+      "token_count": 144
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/rti",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_rti_4e8bc3c5.html",
+      "token_count": 190
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-stores-purchase/en/tender-details",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-stores-purchase_en_tender-details_01093aa7.html",
+      "token_count": 86
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/techscape/en/Techscape",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_techscape_en_Techscape_12a49682.html",
+      "token_count": 408
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/contact",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_contact_6595ac7a.html",
+      "token_count": 122
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/how-to-reach-iit-jodhpur",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_how-to-reach-iit-jodhpur_8a1ad0d2.html",
+      "token_count": 360
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/Institute-Repository/en/Institute-Repository",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_Institute-Repository_en_Institute-Repository_9242d522.html",
+      "token_count": 89
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-corporate-relations/en/Donate",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-corporate-relations_en_Donate_e00b6e00.html",
+      "token_count": 372
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/web-policy",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_web-policy_7ac56845.html",
+      "token_count": 3282
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/web-information-manager",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_web-information-manager_a08dfffd.html",
+      "token_count": 114
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/feedback",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_feedback_9bb0e336.html",
+      "token_count": 64
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/Help",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_Help_d491c626.html",
+      "token_count": 272
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/institute-repository/en/nirf",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_institute-repository_en_nirf_0ef5cc51.html",
+      "token_count": 206
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/anti-sexual-harassment-policy/en/anti-sexual-harassment-policy",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_anti-sexual-harassment-policy_en_anti-sexual-harassment-policy_5dced9be.html",
+      "token_count": 210
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/en/intranet-page",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_en_intranet-page_03a0bf50.html",
+      "token_count": 104
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/doctor-of-philosophy/hi/doctor-of-philosophy",
+      "crawl_level": 1,
+      "raw_file": "raw_downloads/www.iitj.ac.in_doctor-of-philosophy_hi_doctor-of-philosophy_ade37dd9.html",
+      "token_count": 142
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/Search?lg=hi",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_Search_lg_hi_33b53be0.html",
+      "token_count": 6
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/doctor-of-philosophy/en/doctor-of-philosophy",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_doctor-of-philosophy_en_doctor-of-philosophy_92a83679.html",
+      "token_count": 201
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/AtoZ?lg=hi",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_AtoZ_lg_hi_5d1a1411.html",
+      "token_count": 49
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/hi/advertisements",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_hi_advertisements_ad0871bf.html",
+      "token_count": 127
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/doctor-of-philosophy/hi/faqs",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_doctor-of-philosophy_hi_faqs_7686da35.html",
+      "token_count": 13
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/doctor-of-philosophy/hi/contact",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_doctor-of-philosophy_hi_contact_1eac928d.html",
+      "token_count": 544
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/hi/important-links",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_hi_important-links_44ddaf82.html",
+      "token_count": 9
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/hi/recruitments",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_hi_recruitments_5a6dc93e.html",
+      "token_count": 9
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-stores-purchase/hi/tender-details",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-stores-purchase_hi_tender-details_fc86c255.html",
+      "token_count": 9
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/techscape/hi/Techscape",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_techscape_hi_Techscape_4f6e3cc6.html",
+      "token_count": 150
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/hi/contact",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_hi_contact_90be2c68.html",
+      "token_count": 13
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/hi/how-to-reach-iit-jodhpur",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_hi_how-to-reach-iit-jodhpur_10fbb98c.html",
+      "token_count": 9
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/Institute-Repository/hi/Institute-Repository",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_Institute-Repository_hi_Institute-Repository_5d44c470.html",
+      "token_count": 9
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/office-of-corporate-relations/hi/Donate",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_office-of-corporate-relations_hi_Donate_c069fc0e.html",
+      "token_count": 310
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/hi/web-policy",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_hi_web-policy_a1e7bf09.html",
+      "token_count": 9
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/hi/web-information-manager",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_hi_web-information-manager_e682f9f3.html",
+      "token_count": 16
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/hi/Help",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_hi_Help_c37c827c.html",
+      "token_count": 66
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/institute-repository/hi/nirf",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_institute-repository_hi_nirf_dc971c17.html",
+      "token_count": 9
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/anti-sexual-harassment-policy/hi/anti-sexual-harassment-policy",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_anti-sexual-harassment-policy_hi_anti-sexual-harassment-policy_348e817a.html",
+      "token_count": 9
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/main/hi/intranet-page",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_main_hi_intranet-page_681376c1.html",
+      "token_count": 36
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/en/advertisements",
+      "crawl_level": 1,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_en_advertisements_ff946207.html",
+      "token_count": 189
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/en/admission-to-postgraduate-programs",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_en_admission-to-postgraduate-prog_a82eeed5.html",
+      "token_count": 313
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/en/list-of-shortlisted-candidates",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_en_list-of-shortlisted-candidates_084a0e4d.html",
+      "token_count": 208
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/en/schedule-for-written-test-interview",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_en_schedule-for-written-test-inte_d101ca8e.html",
+      "token_count": 102
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/en/shortlisting-criteria-and-syllabus-for-written-test-interview",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_en_shortlisting-criteria-and-syll_b814201a.html",
+      "token_count": 124
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/en/information-regarding-accommodation-for-candidates",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_en_information-regarding-accommod_b57193a3.html",
+      "token_count": 82
+    },
+    {
+      "source_url": "https://www.iitj.ac.in/admission-postgraduate-programs/en/list-of-candidates-in-waiting-list",
+      "crawl_level": 2,
+      "raw_file": "raw_downloads/www.iitj.ac.in_admission-postgraduate-programs_en_list-of-candidates-in-waiting-_5137798a.html",
+      "token_count": 103
+    }
+  ]
+}

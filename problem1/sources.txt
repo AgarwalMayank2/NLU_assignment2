@@ -1,0 +1,55 @@
+# Official website pages
+https://www.iitj.ac.in/
+https://www.iitj.ac.in/main/en/introduction
+https://www.iitj.ac.in/main/en/vision-and-mission
+https://www.iitj.ac.in/main/en/history
+https://www.iitj.ac.in/main/en/institute-reports
+https://www.iitj.ac.in/main/en/acts-statutes
+https://www.iitj.ac.in/main/en/institute-logo
+https://www.iitj.ac.in/m/Index/main-infrastructure?lg=en
+https://www.iitj.ac.in/m/Index/main-key%20functionaries?lg=en
+
+
+# Academic regulations
+https://iitj.ac.in/PageImages/Gallery/03-2025/7.1_Circular_51Circular-No.-IITJOAACircular2024-2551682-dated-08-July-2024.pdf
+https://iitj.ac.in/PageImages/Gallery/03-2025/7.2_Circular_52Circular-No.-IITJOAACircular2024-2552683-dated-08-July-2024.pdf
+http://172.16.100.168:8080/jspui/bitstream/123456789/671/2/Academic_Regulations_Final_03_09_2019.pdf
+https://iitj.ac.in/PageImages/Gallery/03-2025/4_Regulation_PG_2022-onwards_20022023.pdf
+
+
+# Departments
+https://www.iitj.ac.in/bioscience-bioengineering
+https://www.iitj.ac.in/chemistry/en/chemistry
+https://www.iitj.ac.in/chemical-engineering/
+https://www.iitj.ac.in/civil-and-infrastructure-engineering/
+https://www.iitj.ac.in/computer-science-engineering/
+https://www.iitj.ac.in/electrical-engineering/
+https://www.iitj.ac.in/mathematics/
+https://www.iitj.ac.in/mechanical-engineering/
+https://www.iitj.ac.in/materials-engineering/en/materials-engineering
+https://www.iitj.ac.in/physics/
+https://www.iitj.ac.in/school-of-artificial-intelligence-data-science/en/school-of-artificial-intelligence-and-data-science
+https://www.iitj.ac.in/school-of-design/
+https://www.iitj.ac.in/school-of-liberal-arts/
+https://www.iitj.ac.in/schools/
+https://www.iitj.ac.in/es/en/engineering-science
+
+# Announcements / newsletters / circular-style pages
+https://www.iitj.ac.in/main/en/research-highlight
+https://old.iitj.ac.in/events/index.php?id=latest@iit_jodhpur
+
+# Programs
+https://www.iitj.ac.in/Bachelor-of-Technology/en/Bachelor-of-Technology
+https://www.iitj.ac.in/bioscience-bioengineering/en/undergraduate-program
+https://www.iitj.ac.in/computer-science-engineering/en/undergraduate-programs
+https://iitj.ac.in/PageImages/Gallery/07-2025/Curriculum-BTech-CSE.pdf
+https://iitj.ac.in/PageImages/Gallery/07-2025/CSE-Courses-Details.pdf
+https://iitj.ac.in/PageImages/Gallery/07-2025/CSE-Specializations-and-DualDegree.pdf
+https://www.iitj.ac.in/electrical-engineering/en/undergraduate-program
+https://www.iitj.ac.in/mechanical-engineering/en/undergraduate-program
+https://iitj.ac.in/PageImages/Gallery/07-2025/Curriculum-BTech-AIDS.pdf
+https://www.iitj.ac.in/PageImages/Gallery/03-2025/details-of-the-UG-program-638769639494205696.pdf
+https://www.iitj.ac.in/chemical-engineering/en/undergraduate-program
+https://www.iitj.ac.in/civil-and-infrastructure-engineering/en/btech
+https://www.iitj.ac.in/mathematics/en/m.sc.
+https://www.iitj.ac.in/Doctor-of-Philosophy/en/Doctor-of-Philosophy

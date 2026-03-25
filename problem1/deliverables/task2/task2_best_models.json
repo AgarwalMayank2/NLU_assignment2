@@ -1,0 +1,22 @@
+{
+  "cbow": {
+    "model_type": "cbow",
+    "vector_size": 100,
+    "window": 3,
+    "negative": 5,
+    "epochs": 20,
+    "vocab_size": 2344,
+    "train_seconds": 63.806,
+    "model_path": "/home/mayank/my_folders/IITJ/NLU/Assignment_2/models/cbow_dim100_win3_neg5.model"
+  },
+  "skipgram": {
+    "model_type": "skipgram",
+    "vector_size": 100,
+    "window": 3,
+    "negative": 5,
+    "epochs": 20,
+    "vocab_size": 2344,
+    "train_seconds": 207.149,
+    "model_path": "/home/mayank/my_folders/IITJ/NLU/Assignment_2/models/skipgram_dim100_win3_neg5.model"
+  }
+}

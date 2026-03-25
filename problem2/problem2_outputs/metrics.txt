@@ -1,0 +1,15 @@
+RNN
+Parameters: 147487
+Novelty: 0.0350
+Diversity: 0.5960
+
+BiLSTM
+Parameters: 276127
+Novelty: 1.0000
+Diversity: 0.8160
+
+Attention
+Parameters: 147744
+Novelty: 1.0000
+Diversity: 0.0250
+
